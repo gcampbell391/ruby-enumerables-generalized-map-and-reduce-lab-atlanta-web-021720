@@ -8,3 +8,6 @@
    newArray
  end 
 
+def reduce
+  
+end 
